@@ -5,6 +5,7 @@ The human population has experienced continuous growth following the Great Famin
 
 The global population is still increasing, but there is significant uncertainty about its long-term trajectory due to changing fertility and mortality rates. The UN Department of Economics and Social Affairs projects between 9 and 10 billion people by 2050 and gives an 80% confidence interval of 10–12 billion by the end of the 21st century, with a growth rate by then of zero. Other demographers predict that the human population will begin to decline in the second half of the 21st century.
 
+
 Datasets : Kaggle World Population Datasets
 
 # Objective
